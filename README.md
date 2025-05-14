@@ -63,16 +63,6 @@ This project analyzes the impact of lifestyle factors on student stress levels u
 
 ## 📊 Tableau Visualizations
 
-### 🟦 Treemap: Stress Level Distribution
-![Treemap](images/stress_treemap.png)
-
-### 🟪 GPA Category vs. Stress Level
-![GPA vs Sleep_Hours_per_Day]()
-
-### 🟧 Bar Chart: Sleep Hours by Stress
-![Sleep Bar](images/sleep_stress_bar.png)
-
-
 ### Dashboard
 [![Dashboard Preview](https://github.com/GarimaSingh0109/Student_Lifestyle_Analysis/blob/main/Dashboard%201.png)]([https://public.tableau.com/views/YourDashboardName/YourSheet](https://public.tableau.com/app/profile/garima.singh7972/viz/Student_lifestyle/Dashboard1?publish=yes))
 
