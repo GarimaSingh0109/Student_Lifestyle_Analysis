@@ -74,6 +74,6 @@ This project analyzes the impact of lifestyle factors on student stress levels u
 
 
 ### Dashboard
-[![Dashboard Preview]()]([https://public.tableau.com/views/YourDashboardName/YourSheet](https://public.tableau.com/app/profile/garima.singh7972/viz/Student_lifestyle/Dashboard1?publish=yes))
+[![Dashboard Preview](https://github.com/GarimaSingh0109/Student_Lifestyle_Analysis/blob/main/Dashboard%201.png)]([https://public.tableau.com/views/YourDashboardName/YourSheet](https://public.tableau.com/app/profile/garima.singh7972/viz/Student_lifestyle/Dashboard1?publish=yes))
 
 
